@@ -5,7 +5,7 @@ nav_order: 1
 permalink: /
 ---
 
-# NSLP 2024 @ ESWC
+# NSLP 2024
 
 <table>
   <tr>
@@ -32,7 +32,7 @@ Scientific research is almost exclusively published in unstructured text formats
 
 ## Important dates
 
-* 📄 Paper submission deadline: **March 7, 2024**
-* ✅ Notification of acceptance: **April 4, 2024**
-* 📷  Camera-ready submission: **April 18, 2024**
-* 🗓️ Workshop: **Either May 26 or May 27, 2024 (tbc)**
+* Paper submission deadline: **March 7, 2024**
+* Notification of acceptance: **April 4, 2024**
+* Camera-ready submission: **April 18, 2024**
+* Workshop: **Either May 26 or May 27, 2024 (tbc)**
