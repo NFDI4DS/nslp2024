@@ -6,7 +6,7 @@ nav_order: 5
 
 # Shared tasks
 
-Two shared tasks will be organised at the NSLP workshop. Both include several subtasks. Participants can sign up for one or more (sub-)tasks. Automated evaluations of submitted systems will be done through the Codalab platform.
+Two shared tasks are organised at the NSLP workshop. Both include several subtasks. Participants can sign up for one or more (sub-)tasks. Automated evaluations of submitted systems are done through the Codalab platform.
 
 **Task 1. FoRC: Field of Research Classification of Scholarly Publications**
 
