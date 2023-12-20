@@ -5,7 +5,7 @@ nav_order: 1
 permalink: /
 ---
 
-# <span style="color:blue">Natural Scientific Language Processing and Research Knowledge Graphs (NSLP 2024) *blue* text</span>
+# Natural Scientific Language Processing and Research Knowledge Graphs (NSLP 2024)
 
 <table>
   <tr>
