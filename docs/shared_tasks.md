@@ -41,10 +41,10 @@ Given the scale and heterogeneity of software citations, robust methods are requ
 
 **Important dates (applicable to both shared tasks)**
 
-* 📈 Release of training data: **January 2nd, 2024**
-* 💻 Release of testing data: **January 10th, 2024**
-* ❗ Deadline for system submissions: **February 22nd, 2024**
-* 📄 Paper submission deadline: **March 7, 2024**
-* ✅ Notification of acceptance: **April 4, 2024**
-* 📷 Camera-ready submission: **April 18, 2024**
-* 🗓️ Workshop: **Either May 26 or May 27, 2024 (tbc)**
+* Release of training data: **January 2nd, 2024**
+* Release of testing data: **January 10th, 2024**
+* Deadline for system submissions: **February 22nd, 2024**
+* Paper submission deadline: **March 7, 2024**
+* Notification of acceptance: **April 4, 2024**
+* Camera-ready submission: **April 18, 2024**
+* Workshop: **Either May 26 or May 27, 2024 (tbc)**
