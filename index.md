@@ -1,35 +1,38 @@
 ---
-title: Home
 layout: home
+title: NSLP 2024
+nav_order: 1
+permalink: /
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# NSLP 2024 @ ESWC
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+<table>
+  <tr>
+    <td style="text-align:left">
+      <img src="./logo_nfdi4ds.png" alt="NSLP"/>
+    </td>
+    <td>
+    <strong>1st Workshop on Natural Scientific Language Processing and Research Knowledge Graphs (NSLP 2024)
+</strong>
+    <br/><br/>
+    <strong>Co-located with <a href="https://2024.eswc-conferences.org" target="_blank">ESWC</a></strong>
+    <br/>
+    <strong>May 26 or May 27 2024 (tbc)</strong>
+    <br/>
+    <strong>Hersonissos, Crete, Greece</strong>
+    </td>
+  </tr>
+</table>
 
-More specifically, the created site:
+## Workshop Overview
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+Scientific research is almost exclusively published in unstructured text formats, which are not readily machine-readable. While technological approaches can help to get this flood of scientific information and new knowledge under control, the development of such technologies is very complex in practice and hinders the creation of infrastructures and systems to track research and assist the scientific community with applications such as dedicated scientific search engines and recommender systems. **The 1st Workshop on Natural Scientific Language Processing and Research Knowledge Graphs (NSLP)** aims to bring together researchers working on the processing, analysis, transformation and making-use-of scientific language and RKGs including all relevant sub-topics. NSLP 2024 is a full-day workshop co-located with [ESWC 2024](https://2024.eswc-conferences.org) to be held in Crete (Greece) in May 2024. The workshop will consist of two keynote speakers and two shared tasks, as well as presentations and posters of accepted papers.  
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+## Important dates
 
-To get started with creating a site, simply:
-
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+* 📄 Paper submission deadline: **March 7, 2024**
+* ✅ Notification of acceptance: **April 4, 2024**
+* 📷  Camera-ready submission: **April 18, 2024**
+* 🗓️ Workshop: **Either May 26 or May 27, 2024 (tbc)**
