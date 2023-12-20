@@ -5,7 +5,7 @@ nav_order: 1
 permalink: /
 ---
 
-# NSLP 2024
+# Natural Scientific Language Processing and Research Knowledge Graphs (NSLP 2024)
 
 <table>
   <tr>
