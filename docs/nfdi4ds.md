@@ -12,7 +12,7 @@ nav_order: 11
   </tr>
 </table>
 
-The NLSP workshop is financially supported by [NFDI4DataScience (NFDI4DS)](https://www.nfdi4datascience.de) project. 
+The NSLP workshop is financially supported by [NFDI4DataScience (NFDI4DS)](https://www.nfdi4datascience.de) project. 
 
 The vision of NFDI4DS is to support all steps of the complex and interdisciplinary research data lifecycle, including collecting/creating, processing, analyzing, publishing, archiving, and reusing resources in Data Science and Artificial Intelligence.
 
