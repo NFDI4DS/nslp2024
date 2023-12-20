@@ -10,13 +10,12 @@ permalink: /
 <table>
   <tr>
     <td style="text-align:left">
-      <img src="./logo_nfdi4ds.png" alt="NSLP"/>
     </td>
     <td>
     <strong>1st Workshop on Natural Scientific Language Processing and Research Knowledge Graphs (NSLP 2024)
 </strong>
     <br/><br/>
-    <strong>Co-located with <a href="https://2024.eswc-conferences.org" target="_blank">ESWC</a></strong>
+    <strong>Co-located with <a href="https://2024.eswc-conferences.org" target="_blank">ESWC 2024</a></strong>
     <br/>
     <strong>May 26 or May 27 2024 (tbc)</strong>
     <br/>

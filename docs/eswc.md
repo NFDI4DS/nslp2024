@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ESWC
+title: ESWC 2024
 nav_order: 10
 ---
 
