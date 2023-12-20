@@ -7,7 +7,7 @@ nav_order: 11
 <table>
   <tr>
     <td style="text-align:left">
-      <img src="./logo_nfdi4ds.png" alt="NFDI4DataScience (NFDI4DS)"/>
+      <img src="../logo_nfdi4ds.png" alt="NFDI4DataScience (NFDI4DS)"/>
     </td>
   </tr>
 </table>
