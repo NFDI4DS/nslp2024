@@ -55,3 +55,17 @@ Catherine Faron, Université Côte d'Azur, France
 * Ricardo Usbeck, Leuphana University, Germany 
 
 * Thanasis Vergoulis, R.C. Athena, Greece (tbc)
+
+# Shared tasks committee
+
+* Georg Rehm (Deutsches Forschungszentrum für Künstliche Intelligenz, Germany)
+  
+* Ekaterina Borisova (Deutsches Forschungszentrum für Künstliche Intelligenz, Germany)
+  
+* Raia Abu Ahmad (Deutsches Forschungszentrum für Künstliche Intelligenz, Germany)
+
+* Stefan Dietze (GESIS Leibniz Institut für Sozialwissenschaften, Cologne & Heinrich-Heine-University Düsseldorf, Germany)
+
+* Frank Krüger (Wismar University of Applied Sciences, Germany)
+
+* Saurav Karmarkar (GESIS Leibniz Institut für Sozialwissenschaften, Cologne Germany)
