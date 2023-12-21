@@ -20,11 +20,9 @@ Participants can sign up for **one or both** subtasks. Automated evaluations of 
 
 **Contact**
 
-stefan.dietze@gesis.org
-
-frank.krueger@hs-wismar.de
-
-saurav.karmakar@gesis.org
+*stefan.dietze@gesis.org
+*frank.krueger@hs-wismar.de
+*saurav.karmakar@gesis.org
 
 **Important dates**
 
