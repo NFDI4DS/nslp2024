@@ -10,7 +10,7 @@ Given the scale and heterogeneity of software citations, robust methods are requ
 
 **Subtask I: Software mention recognition.** Software mentions shall be recognised from individual sentences. At the same time, software mentions shall be classified according to their mention type, e.g., mention, usage, or creation and the software type, e.g., application, programming environment, or package. and plugin or package. **Subtask II: Additional information.** For each software mention, additional information according to the SoMeSci schema shall be recognised from the sentence. **Subtask III: Relation classification.** For each software mention, relations to other recognised entities shall be classified. This includes versions and developers, but also URLs or host applications for plugins. The evaluation will be based on exact matches rather than partial matches. FScore will be used as a performance metric for all subtasks.
 
-Participants can sign up for one or both subtasks. Automated evaluations of submitted systems are done through the Codalab platform.
+Participants can sign up for **one or both** subtasks. Automated evaluations of submitted systems are done through the Codalab platform.
 
 **Organisers**
 
@@ -21,7 +21,9 @@ Participants can sign up for one or both subtasks. Automated evaluations of subm
 **Contact**
 
 stefan.dietze@gesis.org
+
 frank.krueger@hs-wismar.de
+
 saurav.karmakar@gesis.org
 
 **Important dates**
