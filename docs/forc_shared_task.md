@@ -22,11 +22,9 @@ Participants can sign up for **one or both** subtasks. Automated evaluations of 
 
 **Contact**
 
-georg.rehm@dfki.de
-
-ekaterina.borisova@dfki.de
-
-raia.abu_ahmad@dfki.de
+* georg.rehm@dfki.de
+* ekaterina.borisova@dfki.de
+* raia.abu_ahmad@dfki.de
 
 **Important dates**
 
