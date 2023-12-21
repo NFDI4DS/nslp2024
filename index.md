@@ -33,7 +33,7 @@ In addition, the workshop offers **two shared tasks**:
 * FoRC: Field of Research Classification of Scholarly Publications
 * SOMD: Software Mention Detection in Scholarly Publications
   
-More information is available [on the shared tasks page](https://nfdi4ds.github.io/nslp2024/docs/shared_tasks.html).
+Participants can sign up for one or more (sub-)tasks. Automated evaluations of submitted systems are done through the Codalab platform.
 
 ## Important dates
 
