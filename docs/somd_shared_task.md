@@ -4,7 +4,7 @@ title: SOMD shared task
 nav_order: 6
 ---
 
-**SOMD: Software Mention Detection in Scholarly Publications**
+# SOMD: Software Mention Detection in Scholarly Publications
 
 Given the scale and heterogeneity of software citations, robust methods are required to detect and disambiguate mentions of software and related metadata. The Software Mention Detection in Scholarly Publications (SOMD) task will utilise the SoMeSci corpus. We produced novel test data with software mentions and related metadata in articles from multiple research fields. Four subtasks are planned:
 

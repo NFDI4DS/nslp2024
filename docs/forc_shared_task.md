@@ -4,7 +4,7 @@ title: FoRC shared task
 nav_order: 5
 ---
 
-**FoRC: Field of Research Classification of Scholarly Publications**
+# FoRC: Field of Research Classification of Scholarly Publications
 
 A core application of NSLP is classifying scientific articles for their respective field of research (FoR). While some repositories already use a classification system, these are often limited either in terms of the used taxonomy or in terms of the classification model. The Field of Research Classification (FoRC) shared task involves two subtasks.
 

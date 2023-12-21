@@ -31,8 +31,8 @@ Scientific research is almost exclusively published in unstructured text formats
 
 In addition, the workshop offers **two shared tasks**:
 
-* FoRC: Field of Research Classification of Scholarly Publications
-* SOMD: Software Mention Detection in Scholarly Publications
+* [FoRC: Field of Research Classification of Scholarly Publications](https://nfdi4ds.github.io/nslp2024/docs/forc_shared_task.html)
+* [SOMD: Software Mention Detection in Scholarly Publications](https://nfdi4ds.github.io/nslp2024/docs/somd_shared_task.html)
   
 Participants can sign up for one or more (sub-)tasks. Automated evaluations of submitted systems are done through the Codalab platform.
 
