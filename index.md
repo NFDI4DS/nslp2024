@@ -10,7 +10,7 @@ permalink: /
 <table>
   <tr>
     <td style="text-align:left">
-      <img src="./logo.png" alt="logo"/>
+      <img width="250" height="250" src="./logo.png" alt="logo"/>
     </td>
     <td>
     <strong>1st Workshop on Natural Scientific Language Processing and Research Knowledge Graphs (NSLP 2024)
