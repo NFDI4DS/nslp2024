@@ -6,7 +6,7 @@ nav_order: 5
 
 # Shared tasks
 
-Two shared tasks will be organised at the NSLP workshop. Both include several subtasks. Participants can sign up for one or more (sub-)tasks. Automated evaluations of submitted systems will be done through the Codalab platform.
+Two shared tasks are organised at the NSLP workshop. Both include several subtasks. Participants can sign up for one or more (sub-)tasks. Automated evaluations of submitted systems are done through the Codalab platform.
 
 **Task 1. FoRC: Field of Research Classification of Scholarly Publications**
 
@@ -41,9 +41,9 @@ Given the scale and heterogeneity of software citations, robust methods are requ
 
 **Important dates (applicable to both shared tasks)**
 
-* Release of training data: **January 2nd, 2024**
-* Release of testing data: **January 10th, 2024**
-* Deadline for system submissions: **February 22nd, 2024**
+* Release of training data: **January 2, 2024**
+* Release of testing data: **January 10, 2024**
+* Deadline for system submissions: **February 22, 2024**
 * Paper submission deadline: **March 7, 2024**
 * Notification of acceptance: **April 4, 2024**
 * Camera-ready submission: **April 18, 2024**

@@ -26,9 +26,9 @@ permalink: /
 
 ## Workshop Overview
 
-Scientific research is almost exclusively published in unstructured text formats, which are not readily machine-readable. While technological approaches can help to get this flood of scientific information and new knowledge under control, the development of such technologies is very complex in practice and hinders the creation of infrastructures and systems to track research and assist the scientific community with applications such as dedicated scientific search engines and recommender systems. **The 1st Workshop on Natural Scientific Language Processing and Research Knowledge Graphs (NSLP)** aims to bring together researchers working on the processing, analysis, transformation and making-use-of scientific language and RKGs including all relevant sub-topics. NSLP 2024 is a full-day workshop co-located with [ESWC 2024](https://2024.eswc-conferences.org) to be held in Crete (Greece) in May 2024. The workshop will consist of two keynote speakers as well as presentations and posters of accepted papers. 
+Scientific research is almost exclusively published in unstructured text formats, which are not readily machine-readable. While technological approaches can help to get this flood of scientific information and new knowledge under control, the development of such technologies is very complex in practice and hinders the creation of infrastructures and systems to track research and assist the scientific community with applications such as dedicated scientific search engines and recommender systems. **The 1st Workshop on Natural Scientific Language Processing and Research Knowledge Graphs (NSLP)** aims to bring together researchers working on the processing, analysis, transformation and making-use-of scientific language and Research Knowledge Graphs including all relevant sub-topics. NSLP 2024 is a full-day workshop co-located with [ESWC 2024](https://2024.eswc-conferences.org) to be held in Crete (Greece) in May 2024. The workshop consists of two keynote speakers as well as presentations and posters of accepted papers. 
 
-In addiiton, the workshop will offer **two shared tasks**:
+In addition, the workshop offers **two shared tasks**:
 
 * FoRC: Field of Research Classification of Scholarly Publications
 * SOMD: Software Mention Detection in Scholarly Publications
