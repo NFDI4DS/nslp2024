@@ -4,10 +4,10 @@ title: NFDI4DS
 nav_order: 12
 ---
 
-<table>
+<table align="center" style="margin: 0px auto;">
   <tr>
-    <td style="text-align:left">
-      <img src="../logo_nfdi4ds.png" alt="NFDI4DataScience (NFDI4DS)"/>
+    <td>
+      <img width="500" height="250" src="../logo_nfdi4ds.png" alt="NFDI4DataScience (NFDI4DS)"/>
     </td>
   </tr>
 </table>
