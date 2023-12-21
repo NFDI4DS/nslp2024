@@ -44,4 +44,4 @@ Participants can sign up for one or more (sub-)tasks. Automated evaluations of s
 * Workshop: **Either May 26 or May 27, 2024 (tbc)**
 
 
-<small>The logo was generated using [Canva AI](https://www.canva.com/en_gb/)</small>.
+<small><i>The logo was generated using [Canva AI](https://www.canva.com/en_gb/)</i></small>.
