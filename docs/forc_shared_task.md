@@ -12,7 +12,7 @@ A core application of NSLP is classifying scientific articles for their respecti
 
 **Subtask II: Fine-grained multi-label classification of Computational Linguistics scholarly papers.** Participants will design classification systems based on a corpus of ca.~1500 English scholarly articles in Computational Linguistics (CL), collected from the ACL Anthology (CC BY 4.0) and annotated according to a novel hierarchical taxonomy consisting of 170 core CL (sub-)topics. Metadata fields include ACL Anthology ID, title, abstract, author(s), URL to the full text, publisher, publication year and month, proceedings title, DOI, and venue. As a multi-label hierarchical classification problem, this subtask will be evaluated by computing coverage error, label ranking average precision, and ranking loss scores.
 
-Participants can sign up for one or both subtasks. Automated evaluations of submitted systems are done through the Codalab platform.
+Participants can sign up for **one or both** subtasks. Automated evaluations of submitted systems are done through the Codalab platform.
 
 **Organisers**
 
@@ -23,7 +23,9 @@ Participants can sign up for one or both subtasks. Automated evaluations of subm
 **Contact**
 
 georg.rehm@dfki.de
+
 ekaterina.borisova@dfki.de
+
 raia.abu_ahmad@dfki.de
 
 **Important dates**
