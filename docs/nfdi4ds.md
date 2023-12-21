@@ -4,13 +4,9 @@ title: NFDI4DS
 nav_order: 12
 ---
 
-<table align="center" style="margin: 0px auto;">
-  <tr>
-    <td>
-      <img width="500" height="250" src="../logo_nfdi4ds.png" alt="NFDI4DataScience (NFDI4DS)"/>
-    </td>
-  </tr>
-</table>
+<div align="center" style="margin: 0px auto;">
+<img width="500" height="250" src="../logo_nfdi4ds.png" alt="NFDI4DataScience (NFDI4DS)"/>
+</div>
 
 The NSLP workshop is financially supported by [NFDI4DataScience (NFDI4DS)](https://www.nfdi4datascience.de) project (DFG project no. 460234259). 
 
