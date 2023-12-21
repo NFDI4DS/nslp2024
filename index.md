@@ -42,3 +42,6 @@ Participants can sign up for one or more (sub-)tasks. Automated evaluations of s
 * Notification of acceptance: **April 4, 2024**
 * Camera-ready submission: **April 18, 2024**
 * Workshop: **Either May 26 or May 27, 2024 (tbc)**
+
+
+<small>The logo was generated using [Canva AI](https://www.canva.com/en_gb/)</small>.
