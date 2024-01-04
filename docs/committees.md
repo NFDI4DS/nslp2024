@@ -16,7 +16,7 @@ nav_order: 9
 
 # Programme committee
 
-* Marcel Ackermann, Lernzentrum Informatik (LZI), DBLP, Germany 
+* Marcel R. Ackermann, Schloss Dagstuhl - Leibniz Center for Informatics (LZI), DBLP, Germany
 
 * Mathieu d'Aquin, Université de Lorraine, France 
 
