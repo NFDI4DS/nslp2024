@@ -48,7 +48,7 @@ nav_order: 9
 
 * Simone Ponzetto, Univ. of Mannheim, Germany 
 
-* Diego Reforgiato Recupero, University of Cagliari, Italy (tbc)
+* Diego Reforgiato Recupero, University of Cagliari, Italy
 
 * Harald Sack, FIZ Karlsruhe, Germany
 
