@@ -17,12 +17,16 @@ nav_order: 9
 # Programme committee
 
 * Marcel Ackermann, Lernzentrum Informatik (LZI), DBLP, Germany 
-Mathieu d'Aquin, Université de Lorraine, France 
+
+* Mathieu d'Aquin, Université de Lorraine, France 
 
 * Ekaterina Borisova, Deutsches Forschungszentrum für Künstliche Intelligenz, Germany
 
 * Davide Buscaldi, LIPN, CNRS, University Paris 13, France
-Catherine Faron, Université Côte d'Azur, France
+
+* Catherine Faron, Université Côte d'Azur, France
+
+* Daniel Garijo, Universidad Politécnica de Madrid, Spain 
 
 * Paul Groth, University of Amsterdam, The Netherlands (tbc)
 
@@ -47,6 +51,8 @@ Catherine Faron, Université Côte d'Azur, France
 * Diego Reforgiato Recupero, University of Cagliari, Italy (tbc)
 
 * Harald Sack, FIZ Karlsruhe, Germany
+
+* David Schindler, University of Rostock, Germany
 
 * Jennifer D'Souza, TIB Leibniz Information Centre for Science and Technology, Germany 
 
