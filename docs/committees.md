@@ -30,11 +30,11 @@ nav_order: 9
 
 * Paul Groth, University of Amsterdam, The Netherlands (tbc)
 
-* Robert Jäschke, Humboldt University of Berlin, Germany 
+* Robert Jäschke, Humboldt University of Berlin, Germany
+
+* Petr Knoth, Open University, UK
 
 * Julia Lane, NYU Wagner Graduate School of Public Service, USA
-
-* Petr Knoth, Open University, UK (tbc)
 
 * Diana Maynard, Sheffield University, UK 
 
