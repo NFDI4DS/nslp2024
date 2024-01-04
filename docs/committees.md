@@ -30,7 +30,7 @@ nav_order: 9
 
 * Paul Groth, University of Amsterdam, The Netherlands (tbc)
 
-* Robert Jäschke, Humboldt University of Berlin, Germany
+* Robert Jäschke, Humboldt-Universität zu Berlin, Germany
 
 * Petr Knoth, Open University, UK
 
