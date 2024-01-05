@@ -16,6 +16,8 @@ nav_order: 9
 
 # Programme committee
 
+* Rana Abdullah, Universität Hamburg, Germany
+
 * Marcel R. Ackermann, Schloss Dagstuhl - Leibniz Center for Informatics (LZI), DBLP, Germany
 
 * Mathieu d'Aquin, Université de Lorraine, France 
@@ -54,7 +56,9 @@ nav_order: 9
 
 * David Schindler, University of Rostock, Germany
 
-* Jennifer D'Souza, TIB Leibniz Information Centre for Science and Technology, Germany 
+* Jennifer D'Souza, TIB Leibniz Information Centre for Science and Technology, Germany
+  
+* Tilahun Taffa, Universität Hamburg, Germany
 
 * Atsuhiro Takasu, University of Tokyo, Japan 
 
