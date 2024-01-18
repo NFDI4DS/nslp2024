@@ -10,7 +10,7 @@ Software are important parts of the scientific process and should therefore reco
 Research Knowledge Graphs have recently been adopted to provide bibliographic data at scale that could be populated by automatic extraction of software mentions.
 Given the scale and heterogeneity of software citations, robust methods are required to detect and disambiguate mentions of software and related metadata. 
 The **SO**ftware **M**ention **D**etection in Scholarly Publications (SOMD) task will utilise the [SoMeSci](https://data.gesis.org/somesci/) - Software mentions in Science - corpus. 
-Participants can sign up for **one or both** subtasks. Automated evaluations of submitted systems are done through the Codalab platform.
+Participants can sign up for **one or more** subtasks. Automated evaluations of submitted systems are done through the Codalab platform.
 
 **[Subtask I: Software mention recognition.](https://codalab.lisn.upsaclay.fr/competitions/16935)** Software mentions shall be recognised from individual sentences. At the same time, software mentions shall be classified according to their mention type, e.g., mention, usage, or creation and the software type, e.g., application, programming environment, or package.
 Participants will develop classifiers that take individual sentences from the different subsets of SoMeSci and output mentions of software further classified into their type of software and mention.
