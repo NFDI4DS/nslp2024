@@ -30,7 +30,7 @@ nav_order: 9
 
 * Petr Knoth, Open University, UK
   
-* Paul Groth, Netherlands
+* Paul Groth, University of Amsterdam, Netherlands
 
 * Diego Reforgiato Recupero, University of Cagliari, Italy
 
@@ -41,6 +41,9 @@ nav_order: 9
 * Tilahun Taffa, Universität Hamburg, Germany
 
 * Ricardo Usbeck, Leuphana University, Germany
+
+* Wolfgang Otto, GESIS, Germany
+  
 
 # Shared tasks committee
 
