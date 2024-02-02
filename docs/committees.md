@@ -20,39 +20,19 @@ nav_order: 9
 
 * Marcel R. Ackermann, Schloss Dagstuhl - Leibniz Center for Informatics (LZI), DBLP, Germany
 
-* Mathieu d'Aquin, Université de Lorraine, France 
-
 * Ekaterina Borisova, Deutsches Forschungszentrum für Künstliche Intelligenz, Germany
 
 * Davide Buscaldi, LIPN, CNRS, University Paris 13, France
 
-* Catherine Faron, Université Côte d'Azur, France
-
-* Daniel Garijo, Universidad Politécnica de Madrid, Spain 
-
-* Paul Groth, University of Amsterdam, The Netherlands (tbc)
+* Daniel Garijo, Universidad Politécnica de Madrid, Spain
 
 * Robert Jäschke, Humboldt-Universität zu Berlin, Germany
 
 * Petr Knoth, Open University, UK
-
-* Julia Lane, NYU Wagner Graduate School of Public Service, USA
-
-* Diana Maynard, Sheffield University, UK 
-
-* Philipp Mayr-Schlegel, GESIS Leibniz-Institute for the Social Sciences, Germany 
-
-* Wolfgang Otto, GESIS Leibniz-Institute for the Social Sciences, Germany 
-
-* Haris Papageorgiou, R.C. Athena, Greece 
-
-* Silvio Peroni, University of Bologna, Italy (tbc)
-
-* Simone Ponzetto, Univ. of Mannheim, Germany 
+  
+* Paul Groth, Netherlands
 
 * Diego Reforgiato Recupero, University of Cagliari, Italy
-
-* Harald Sack, FIZ Karlsruhe, Germany
 
 * David Schindler, University of Rostock, Germany
 
@@ -60,11 +40,7 @@ nav_order: 9
   
 * Tilahun Taffa, Universität Hamburg, Germany
 
-* Atsuhiro Takasu, University of Tokyo, Japan 
-
-* Ricardo Usbeck, Leuphana University, Germany 
-
-* Thanasis Vergoulis, R.C. Athena, Greece (tbc)
+* Ricardo Usbeck, Leuphana University, Germany
 
 # Shared tasks committee
 
