@@ -26,11 +26,13 @@ nav_order: 9
 
 * Daniel Garijo, Universidad Politécnica de Madrid, Spain
 
+* Paul Groth, University of Amsterdam, Netherlands
+
 * Robert Jäschke, Humboldt-Universität zu Berlin, Germany
 
 * Petr Knoth, Open University, UK
-  
-* Paul Groth, University of Amsterdam, Netherlands
+
+* Wolfgang Otto, GESIS Leibniz-Institute for the Social Sciences, Germany
 
 * Diego Reforgiato Recupero, University of Cagliari, Italy
 
@@ -41,8 +43,6 @@ nav_order: 9
 * Tilahun Taffa, Universität Hamburg, Germany
 
 * Ricardo Usbeck, Leuphana University, Germany
-
-* Wolfgang Otto, GESIS, Germany
   
 
 # Shared tasks committee
