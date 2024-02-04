@@ -33,6 +33,8 @@ nav_order: 9
 * Petr Knoth, Open University, UK
 
 * Wolfgang Otto, GESIS Leibniz-Institute for the Social Sciences, Germany
+  
+* Haris Papageorgiou, R.C. Athena, Greece 
 
 * Diego Reforgiato Recupero, University of Cagliari, Italy
 
@@ -43,6 +45,7 @@ nav_order: 9
 * Tilahun Taffa, Universität Hamburg, Germany
 
 * Ricardo Usbeck, Leuphana University, Germany
+
   
 
 # Shared tasks committee
