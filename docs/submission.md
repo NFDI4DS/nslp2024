@@ -13,6 +13,6 @@ The NSLP 2024 workshop invites submissions of regular long papers, position pape
 * Authors are permitted to include an optional appendix of up to 2 pages. However, reviewers will not be mandated to review the appendix and all papers must be self-contained.
 * Reviewing will be performed **double-blind**. Reviewers will not actively try to identify the authors.
 * Submissions **must be in PDF**, formatted in the style of the Springer Publications format for **Lecture Notes in Computer Science (LNCS)**. For details on the LNCS style, see Springer’s Author Instructions. 
-* The proceedings of this workshop will be published in an Open Access proceedings volume.
+* The proceedings of this workshop will be published as an **Open Access** volume in the Springer series Lecture Notes in Artificial Intelligence (LNAI).
 * At least **one author per contribution must register** for the conference for presentation.
-* Submission is done through [EasyChair](https://easychair.org/account/signin). A link will be provided soon. 
+* Submission is done through [EasyChair](https://easychair.org/account/signin). The submission site is now open at <https://easychair.org/conferences/?conf=nslp2024>.
