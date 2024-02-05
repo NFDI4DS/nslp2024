@@ -15,4 +15,4 @@ The NSLP 2024 workshop invites submissions of regular long papers, position pape
 * Submissions **must be in PDF**, formatted in the style of the Springer Publications format for **Lecture Notes in Computer Science (LNCS)**. For details on the LNCS style, see Springer’s Author Instructions. 
 * The proceedings of this workshop will be published as an **Open Access** volume in the Springer series Lecture Notes in Artificial Intelligence (LNAI).
 * At least **one author per contribution must register** for the conference for presentation.
-* Submission is done through [EasyChair](https://easychair.org/account/signin). The submission site is now open at <https://easychair.org/conferences/?conf=nslp2024>.
+* Submission is done through [EasyChair NSLP 2024 workshop](https://easychair.org/conferences/?conf=nslp2024>).
