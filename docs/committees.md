@@ -44,6 +44,8 @@ nav_order: 9
   
 * Tilahun Taffa, Universität Hamburg, Germany
 
+* Atsuhiro Takasu, University of Tokyo, Japan 
+
 * Ricardo Usbeck, Leuphana University, Germany
 
   
