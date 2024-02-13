@@ -20,6 +20,8 @@ nav_order: 9
 
 * Marcel R. Ackermann, Schloss Dagstuhl - Leibniz Center for Informatics (LZI), DBLP, Germany
 
+* Mathieu d'Aquin, Université de Lorraine, France 
+
 * Ekaterina Borisova, Deutsches Forschungszentrum für Künstliche Intelligenz, Germany
 
 * Davide Buscaldi, LIPN, CNRS, University Paris 13, France
@@ -36,7 +38,9 @@ nav_order: 9
 
 * Wolfgang Otto, GESIS Leibniz-Institute for the Social Sciences, Germany
   
-* Haris Papageorgiou, R.C. Athena, Greece 
+* Haris Papageorgiou, R.C. Athena, Greece
+
+* Simone Ponzetto, University of Mannheim, Germany 
 
 * Diego Reforgiato Recupero, University of Cagliari, Italy
 
