@@ -46,5 +46,10 @@ Participants can sign up for one or more (sub-)tasks. Automated evaluations of s
 ## Proceedings book
 The proceedings of this workshop will be published as an Open Access volume in the Springer series Lecture Notes in Artificial Intelligence (LNAI).
 
+<div align="center" style="margin: 0px auto;">
+<img width="200" height="150" src="../LNAI-Logo.png" alt="LNAI"/>
+</div>
+
+
 
 <small><i>The logo was generated using [Canva AI](https://www.canva.com/en_gb/)</i></small>.
