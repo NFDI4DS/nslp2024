@@ -24,6 +24,8 @@ nav_order: 9
 
 * Davide Buscaldi, LIPN, CNRS, University Paris 13, France
 
+* Catherine Faron, Université Côte d'Azur, France
+
 * Daniel Garijo, Universidad Politécnica de Madrid, Spain
 
 * Paul Groth, University of Amsterdam, Netherlands
