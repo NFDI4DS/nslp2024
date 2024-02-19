@@ -35,6 +35,8 @@ nav_order: 9
 * Robert Jäschke, Humboldt-Universität zu Berlin, Germany
 
 * Petr Knoth, Open University, UK
+  
+* Pedro Ortiz Suarez, Common Crawl Foundation, USA
 
 * Wolfgang Otto, GESIS Leibniz-Institute for the Social Sciences, Germany
   
@@ -43,6 +45,8 @@ nav_order: 9
 * Simone Ponzetto, University of Mannheim, Germany 
 
 * Diego Reforgiato Recupero, University of Cagliari, Italy
+  
+* Philipp Schaer, TH Köln, Germany
 
 * David Schindler, University of Rostock, Germany
 
