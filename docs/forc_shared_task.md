@@ -28,7 +28,7 @@ A core application of NSLP is classifying scientific articles for their respecti
 
 * Release of training data: **January 2, 2024**
 * Release of testing data: **January 10, 2024**
-* Deadline for system submissions: ~~**February 22, 2024**~~**February 29, 2024**
+* Deadline for system submissions: ~~**February 22, 2024**~~ **February 29, 2024**
 * Paper submission deadline: **March 7, 2024**
 * Notification of acceptance: **April 4, 2024**
 * Camera-ready submission: **April 18, 2024**
