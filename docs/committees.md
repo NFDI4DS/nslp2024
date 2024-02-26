@@ -18,6 +18,8 @@ nav_order: 9
 
 * Rana Abdullah, Universität Hamburg, Germany
 
+* Raia Abu Ahmad, Deutsches Forschungszentrum für Künstliche Intelligenz, Germany
+
 * Marcel R. Ackermann, Schloss Dagstuhl - Leibniz Center for Informatics (LZI), DBLP, Germany
 
 * Mathieu d'Aquin, Université de Lorraine, France 
