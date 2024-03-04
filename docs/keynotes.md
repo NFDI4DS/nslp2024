@@ -11,10 +11,7 @@ nav_order: 10
 Natalia is a CEO at OpenAIRE. She holds a Physics degree from the University of Athens, and an MS in Electrical and Computing Engineering from the University of Wisconsin at Madison and has worked for several years as a Software Engineer and Architect in the Bioinformatics commercial sector. She has expertise in Open Science policies and implementation, having served in the EOSC Executive Board 2019-20, and in the Open Science Policy Platform (2016-17), an EC High Level Advisory Group provide advice about the development and implementation of open science policy in Europe.
 
 
-<div style="display: flex; align-items: center;">
-    <img src="../francesco-osborne.jpg" alt="francesco" style="width: 100; height: 150; margin-right: 20">
-    <h2>Francesco Osborne</h2>
-</div>
+Francesco Osborne
 
 **Speaker Bio:**
 
