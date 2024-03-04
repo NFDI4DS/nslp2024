@@ -12,8 +12,8 @@ Natalia is a CEO at OpenAIRE. She holds a Physics degree from the University of 
 
 
 
-<div align="center" style="margin: 0px auto;">
-<img width="550" height="250" src="../francesco-heading.png" alt="NFDI4DataScience (NFDI4DS)"/>
+<div align="left" style="margin: 0px auto;">
+<img width="350" height="250" src="../francesco-heading.png" alt="francesco"/>
 </div>
 
 
