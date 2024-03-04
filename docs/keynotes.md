@@ -12,7 +12,7 @@ Natalia is a CEO at OpenAIRE. She holds a Physics degree from the University of 
 
 
 <div style="display: flex; align-items: center;">
-    <img src="../francesco-osborne.jpg" alt="francesco" style="width: 200; height: 250;">
+    <img src="../francesco-osborne.jpg" alt="francesco" style="width: 100; height: 150; margin-right: 20">
     <h2>Francesco Osborne</h2>
 </div>
 
