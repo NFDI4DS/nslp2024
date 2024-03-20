@@ -6,10 +6,16 @@ nav_order: 10
 
 # Keynote speakers
 
-[Natalia Manola](https://www.openaire.eu/natalia-manola), OpenAIRE CEO, Greece
 
-Natalia is a CEO at OpenAIRE. She holds a Physics degree from the University of Athens, and an MS in Electrical and Computing Engineering from the University of Wisconsin at Madison and has worked for several years as a Software Engineer and Architect in the Bioinformatics commercial sector. She has expertise in Open Science policies and implementation, having served in the EOSC Executive Board 2019-20, and in the Open Science Policy Platform (2016-17), an EC High Level Advisory Group provide advice about the development and implementation of open science policy in Europe.
+Natalia Manola is the CEO of [OpenAIRE](www.openaire.eu), a pan European e-Infrastructure supporting scholarly communication and open science Europe since 2009. She is also a research associate in “Athena” Research and Innovation Center and a co-founder in Opix, an AI-assisted policy & business analytics consultancy company. She holds a Physics degree from the University of Athens, and an MS in Electrical and Computing Engineering from the University of Wisconsin at Madison. She has several years of employment as a Software Engineer and Architect employed in the Bioinformatics commercial sector. She has expertise in Open Science policies and implementation, having served in the EOSC Executive Board (2018-20, chairing the Working Group on Skills and Training) and in the Open Science Policy Platform (2016-18), an EC High Level Advisory Group to provide advice about the development and implementation of open science policy in Europe. Her research interests include the topics of e-Infrastructures development and management, scientific data management, data curation and validation, research analytics. Natalia has also served in the EC Future Emerging Technology (FET) Advisory Group (2013-2017).
 
+**Keynote Title:**
+
+Leveraging NLP/ML to Transform Scholarly Communication: A New Horizon
+
+**Keynote Abstract:**
+
+The advent of Large Language Models (LLMs) has opened new horizons in the field of scholarly communication. This presentation aims to shed light on the transformative potential of combining LLMs with the Scientific Knowledge Graphs, to revolutionize the way scientific knowledge is created, shared, and utilized. On one hand, by processing and interpreting the intricate web of scientific literature, LLMs can automate the extraction of concepts, relationships, and trends, embedding them into knowledge graphs with unprecedented accuracy and depth. On the other, by using LLMs we may interpret user queries, expanding them to include synonyms and related terms for more comprehensive retrieval, and by implementing RAG models we may dynamically retrieve relevant information from the graphs in response to user queries. The presentation will explore practical applications of this integration in the context of the European Open Science Cloud and the OpenAIRE Graph, in improving the accessibility and discoverability of scientific information, thereby democratizing knowledge and fostering interdisciplinary collaboration. It will also address how Open Science principles act as a catalyst in the ethical considerations and bias mitigation towards an equitable access to information.
 
 <div align="left" style="margin: 0px auto;">
 <img width="550" height="250" src="../francesco-heading.png" alt="francesco"/>
