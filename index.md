@@ -18,7 +18,7 @@ permalink: /
     <br/><br/>
     <strong>Co-located with <a href="https://2024.eswc-conferences.org" target="_blank">ESWC 2024</a></strong>
     <br/>
-    <strong><span style="color: red;">May 27 2024</span> (date confirmed)</strong>
+    <strong><span style="color: red;">May 27, 2024</span> (date confirmed)</strong>
     <br/>
     <strong>Hersonissos, Crete, Greece</strong>
     </td>
@@ -41,7 +41,7 @@ Participants can sign up for one or more (sub-)tasks. Automated evaluations of s
 * Paper submission deadline: ~~**March 7, 2024**~~ **March 14, 2024**
 * Notification of acceptance: **April 4, 2024**
 * Camera-ready submission: **April 18, 2024**
-* Workshop: **<span style="color: red;">May 27 2024</span> (date confirmed)**
+* Workshop: **<span style="color: red;">May 27, 2024</span> (date confirmed)**
 
 All deadlines are 23:59 UTC-12:00 (“anywhere on Earth”).
 
