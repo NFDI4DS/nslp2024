@@ -43,4 +43,4 @@ As in Subtask I, submissions will be evaluated by F1-Score based on exact matche
 * Paper submission deadline: ~~**March 7, 2024**~~ **March 14, 2024**
 * Notification of acceptance: **April 4, 2024**
 * Camera-ready submission: **April 18, 2024**
-* Workshop: **Either May 26 or May 27, 2024 (tbc)**
+* Workshop: **<span style="color: red;">May 27 2024</span> (date confirmed)**
