@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Accepted Papers
-nav_order: 9
+nav_order: 14
 ---
 
 # List of Accepted Papers
