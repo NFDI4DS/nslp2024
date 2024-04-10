@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Accepted Papers
+title: Accepted papers
 nav_order: 2
 ---
 
