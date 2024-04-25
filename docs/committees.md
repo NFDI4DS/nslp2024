@@ -35,8 +35,6 @@ nav_order: 9
 * Paul Groth, University of Amsterdam, Netherlands
 
 * Robert Jäschke, Humboldt-Universität zu Berlin, Germany
-
-* Petr Knoth, Open University, UK
   
 * Pedro Ortiz Suarez, Common Crawl Foundation, USA
 
@@ -50,8 +48,6 @@ nav_order: 9
   
 * Philipp Schaer, TH Köln, Germany
 
-* David Schindler, University of Rostock, Germany
-
 * Jennifer D'Souza, TIB Leibniz Information Centre for Science and Technology, Germany
   
 * Tilahun Taffa, Universität Hamburg, Germany
@@ -61,7 +57,6 @@ nav_order: 9
 * Ricardo Usbeck, Leuphana University, Germany
 
   
-
 # Shared tasks committee
 
 * Georg Rehm (Deutsches Forschungszentrum für Künstliche Intelligenz, Germany)
