@@ -66,7 +66,7 @@ The NSLP 2024 workshop will be a face-to-face event. Remote participation will n
   </tr>
   <tr>
     <td><strong>15:10</strong></td>
-    <td colspan="5"><strong>Shared Tasks Posters Session</strong> 
+    <td colspan="18"><strong>Shared Tasks Posters Session</strong> 
       <br>Field of Research Classification Posters: 
       <br>NRK at FoRC 2024 Subtask I: Exploiting BERT-based Models for Multi-Class Classification of Scholarly Papers
       <br><em>Tuan Kiet Nguyen and Van Thin Dang</em>  
@@ -86,4 +86,26 @@ The NSLP 2024 workshop will be a face-to-face event. Remote participation will n
       <br>Enhancing Software-Related Information Extraction via Single-Choice Question Answering with Large Language Models
       <br><em>Wolfgang Otto, Sharmila Upadhyaya and Stefan Dietze</em></td>
   </tr>
+  <tr>
+    <td><strong>15:30</strong></td>
+    <td><strong>Coffee Break and Continuation of Poster Session</strong></td>
+  </tr> 
+  <tr>
+    <td><strong>16:00</strong></td>
+    <td colspan="5"><strong>Paper Presentations - Research Knowledge Graphs</strong> 
+      <br>The Effect of Knowledge Graph Schema on Classifying Future Research Suggestions
+      <br><em>Dimitrios Alivanistos, Seth van der Bijl, Michael Cochez and Frank van Harmelen</em>  
+      <br>Assessing the Overlap of Science Knowledge Graphs: A Quantitative Analysis 
+      <br><em>Jenifer Tabita Ciuciu-Kiss and Daniel Garijo</em></td>  
+  </tr>
+  <tr>
+    <td><strong>16:30</strong></td>
+    <td colspan="2"><strong>Invited Keynote Presentation - Natalia Manola</strong> 
+      <br><em>Leveraging NLP/ML to Transform Scholarly Communication: A New Horizon</em></td>
+  </tr>
+  <tr>
+    <td><strong>17:10</strong></td>
+    <td><strong>Wrap-up and End of Workshop</strong></td>
+  </tr>
+  
 </table>
