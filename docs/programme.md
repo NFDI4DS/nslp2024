@@ -16,7 +16,8 @@ _Integrating Large Language Models with Scientific Knowledge Graphs: Trends and 
 **09:45 \
 Paper Presentations - Scholarly Information Processing** 
 Scholarly Question Answering using Large Language Models in the NFDI4DataScience Gateway \
-_Hamed Babaei Giglou, Tilahun Abedissa Taffa, Rana Abdullah, Aida Usmanova, Ricardo Usbeck, Jennifer D'Souza and Sören Auer_\
+_Hamed Babaei Giglou, Tilahun Abedissa Taffa, Rana Abdullah, Aida Usmanova, Ricardo Usbeck, Jennifer D'Souza and Sören Auer_
+
 Towards a Novel Classification of Table Types in Scholarly Publications \
 _Jilin He, Ekaterina Borisova and Georg Rehm_
 
