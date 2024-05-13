@@ -24,4 +24,16 @@ The NSLP 2024 workshop will be a face-to-face event. Remote participation will n
       <br><em>Hamed Babaei Giglou, Tilahun Abedissa Taffa, Rana Abdullah, Aida Usmanova, Ricardo Usbeck, Jennifer D'Souza and Sören Auer</em>  
       <br>Towards a Novel Classification of Table Types in Scholarly Publications 
       <br><em>Jilin He, Ekaterina Borisova and Georg Rehm</em></td>   
+  </tr>
+  <tr>
+    <td><strong>10:30</strong></td>
+    <td><strong>Coffee Break</strong></td>
+  </tr>
+  <tr>
+    <td colspan="5"><strong>Paper Presentations - Scholarly Information Processing</strong> 
+      <br>OCR cleaning of scientific texts with LLM's 
+      <br><em>Gábor Madarász, Noémi Ligeti-Nagy, András Holl and Tamás Váradi</em>  
+      <br>Cite-worthiness Detection on Social Media: a Preliminary Study
+      <br><em>Salim Hafid, Wassim Ammar, Sandra Bringay and Konstantin Todorov</em></td>  
+  </tr>
 </table>
