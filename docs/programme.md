@@ -14,9 +14,9 @@ Invited Keynote Presentation - Francesco Osborne** \
 _Integrating Large Language Models with Scientific Knowledge Graphs: Trends and Future Directions_
 
 **09:45 \
-Paper Presentations - Scholarly Information Processing** \ 
+Paper Presentations - Scholarly Information Processing**  
 
-Scholarly Question Answering using Large Language Models in the NFDI4DataScience Gateway \
+Scholarly Question Answering using Large Language Models in the NFDI4DataScience Gateway 
 _Hamed Babaei Giglou, Tilahun Abedissa Taffa, Rana Abdullah, Aida Usmanova, Ricardo Usbeck, Jennifer D'Souza and Sören Auer_
 
 Towards a Novel Classification of Table Types in Scholarly Publications \
@@ -26,7 +26,7 @@ _Jilin He, Ekaterina Borisova and Georg Rehm_
 Coffee Break**
 
 **11:00 \
-Paper Presentations - Scholarly Information Processing** \ 
+Paper Presentations - Scholarly Information Processing**  
 
 OCR cleaning of scientific texts with LLM's \
 _Gábor Madarász, Noémi Ligeti-Nagy, András Holl and Tamás Váradi_
@@ -34,7 +34,7 @@ _Gábor Madarász, Noémi Ligeti-Nagy, András Holl and Tamás Váradi_
 Cite-worthiness Detection on Social Media: a Preliminary Study \
 _Salim Hafid, Wassim Ammar, Sandra Bringay and Konstantin Todorov_
 
-**Paper Presentations - Identifying and Leveraging Research Software** \ 
+**Paper Presentations - Identifying and Leveraging Research Software**  
 
 A Technical/Scientific Document Management Platform \
 _Melissa Lemos, Grettel Monteagudo Garcia, Yenier Torres Isquierdo, Bruno Novelli, Cleber Damasceno, Bernardo Florindo Mortari Rezende, Jefferson Alves de Sousa and Marco Antonio Casanova_
@@ -49,7 +49,7 @@ _Aleksandar Stankovski and Daniel Garijo_
 Lunch Break**
 
 **14:00 \
-Paper Presentations - Identifying and Leveraging Research Software** \ 
+Paper Presentations - Identifying and Leveraging Research Software**  
 
 Scientific Software Citation Intent using Large Language Models \
 _Ana-Maria Istrate, Joshua Fisher, Xinyu Yang, Kara Moraw, Kai Li and Donghui Li_
@@ -58,7 +58,7 @@ RTaC: A Generalised Framework for Tooling \
 _Nisarg Bhavsar, Abhinav Thakur, Ashish Patwa and Amrit Lal Singh_
 
 **14:30 \
-Shared Tasks Overview Presentations** \ 
+Shared Tasks Overview Presentations**  
 
 FoRC@NSLP: Overview and Insights from the Field of Research Classification Shared Task \
 _Raia Abu Ahmad, Ekaterina Borisova and Georg Rehm_   
@@ -67,7 +67,7 @@ SOMD@NSLP: Overview and Insights from the Software Mention Detection Shared Task
 _Frank Krüger, Saurav Karmakar and Stefan Dietze_
 
 **15:10 \
-Shared Tasks Posters Session** \ 
+Shared Tasks Posters Session**  
 
 Field of Research Classification Posters: 
 NRK at FoRC 2024 Subtask I: Exploiting BERT-based Models for Multi-Class Classification of Scholarly Papers \
@@ -100,7 +100,8 @@ _Wolfgang Otto, Sharmila Upadhyaya and Stefan Dietze_
 Coffee Break and Continuation of Poster Session**
 
 **16:00 \
-Paper Presentations - Research Knowledge Graphs** \
+Paper Presentations - Research Knowledge Graphs** 
+
 The Effect of Knowledge Graph Schema on Classifying Future Research Suggestions \
 _Dimitrios Alivanistos, Seth van der Bijl, Michael Cochez and Frank van Harmelen_
 
