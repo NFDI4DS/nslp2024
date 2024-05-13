@@ -54,7 +54,28 @@ Shared Tasks Overview Presentations**
 2. SOMD@NSLP: Overview and Insights from the Software Mention Detection Shared Task
 
 **15:10 \
-Shared Tasks Posters Session**
+Shared Tasks Posters Session** \
+
+Field of Research Classification Posters: 
+1. NRK at FoRC 2024 Subtask I: Exploiting BERT-based Models for Multi-Class Classification of Scholarly Papers \
+_Tuan Kiet Nguyen and Van Thin Dang_
+2. Advancing Automatic Subject Indexing: Combining Weak Supervision with Extreme Multi-label Classification \
+_Lakshmi Rajendram Bashyam and Ralf Krestel_
+3. Single-Label Multi-Modal Field of Research Classification \
+_Florian Ruosch, Rosni Vasu, Ruijie Wang, Luca Rossetto and Abraham Bernstein_
+4. Enriched BERT Embeddings for Scholarly Publication Classification \
+_Benjamin Wolff, Eva Seidlmayer and Konrad Förstner_
+
+Software Mention Detection Posters: 
+1. Software Mention Recognition with a Three-Stage Framework Based on BERTology Models at SOMD 2024 
+_Thi Thuy Nguyen, Viet Anh Nguyen and Van Thin Dang_
+2. ABCD Team at SOMD 2024: Software Mention Detection in Scholarly Publications with Large Language Models 
+_Nguyen Xuan Phi, Tran Minh Quang and Thin Dang Van_
+3. Falcon 7b for Software Mention Detection in Scholarly Documents 
+_Ameerali Khan, Qusai Ramadan, Cong Yang and Zeyd Boukhers_
+4. Enhancing Software-Related Information Extraction via Single-Choice Question Answering with Large Language Models 
+_Wolfgang Otto, Sharmila Upadhyaya and Stefan Dietze_
+
 
 **15:30 \
 Coffee Break and Continuation of Poster Session**
@@ -73,5 +94,6 @@ _Leveraging NLP/ML to Transform Scholarly Communication: A New Horizon_
 **17:10 \
 Wrap-up and End of Workshop**
 
-The programme of the workshop with the keynote presentations, accepted papers and shared task contributions will be posted in April 2024. The NSLP 2024 workshop will be a face-to-face event. Remote participation will not be possible.
+
+The NSLP 2024 workshop will be a face-to-face event. Remote participation will not be possible.
 
