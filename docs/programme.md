@@ -3,7 +3,6 @@ layout: default
 title: Programme
 nav_order: 3
 ---
-The NSLP 2024 workshop will be a face-to-face event. Remote participation will not be possible.
 
 # Programme
 
@@ -134,3 +133,7 @@ The NSLP 2024 workshop will be a face-to-face event. Remote participation will n
   </tr>
   
 </table>
+
+
+The NSLP 2024 workshop will be a face-to-face event. Remote participation will not be possible.
+
