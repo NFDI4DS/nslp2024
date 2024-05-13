@@ -20,8 +20,10 @@ The NSLP 2024 workshop will be a face-to-face event. Remote participation will n
   <tr>
     <td><strong>09:45</strong></td>
     <td colspan="5"><strong>Paper Presentations - Scholarly Information Processing</strong> 
+      <br>
       <br>Scholarly Question Answering using Large Language Models in the NFDI4DataScience Gateway 
       <br><em>Hamed Babaei Giglou, Tilahun Abedissa Taffa, Rana Abdullah, Aida Usmanova, Ricardo Usbeck, Jennifer D'Souza and Sören Auer</em>  
+      <br>
       <br>Towards a Novel Classification of Table Types in Scholarly Publications 
       <br><em>Jilin He, Ekaterina Borisova and Georg Rehm</em></td>   
   </tr>
