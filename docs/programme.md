@@ -18,6 +18,6 @@ The NSLP 2024 workshop will be a face-to-face event. Remote participation will n
   </tr>
   <tr>
     <td></td>
-    <td colspan="2"><strong>Invited Keynote Presentation - Francesco Osborne</strong><em>Integrating Large Language Models with Scientific Knowledge Graphs: Trends and Future Directions</em></td>
+    <td colspan="2"><strong>Invited Keynote Presentation - Francesco Osborne</strong> <br><em>Integrating Large Language Models with Scientific Knowledge Graphs: Trends and Future Directions</em></td>
   </tr>
 </table>
