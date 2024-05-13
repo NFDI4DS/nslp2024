@@ -48,4 +48,20 @@ The NSLP 2024 workshop will be a face-to-face event. Remote participation will n
     <td><strong>12:30</strong></td>
     <td><strong>Lunch Break</strong></td>
   </tr> 
+  <tr>
+    <td><strong>14:00</strong></td>
+    <td colspan="12"><strong>Paper Presentations - Identifying and Leveraging Research Software</strong> 
+      <br>Scientific Software Citation Intent using Large Language Models
+      <br><em>Ana-Maria Istrate, Joshua Fisher, Xinyu Yang, Kara Moraw, Kai Li and Donghui Li</em>  
+      <br>RTaC: A Generalised Framework for Tooling
+      <br><em>Nisarg Bhavsar, Abhinav Thakur, Ashish Patwa and Amrit Lal Singh</em></td>  
+  </tr>
+  <tr>
+    <td><strong>14:30</strong></td>
+    <td colspan="12"><strong>Shared Tasks Overview Presentations</strong> 
+      <br>FoRC@NSLP: Overview and Insights from the Field of Research Classification Shared Task
+      <br><em>Raia Abu Ahmad, Ekaterina Borisova and Georg Rehm</em>  
+      <br>SOMD@NSLP: Overview and Insights from the Software Mention Detection Shared Task
+      <br><em>Frank Krüger, Saurav Karmakar and Stefan Dietze</em></td>  
+  </tr>
 </table>
