@@ -50,8 +50,10 @@ _Nisarg Bhavsar, Abhinav Thakur, Ashish Patwa and Amrit Lal Singh_
 
 **14:30 \
 Shared Tasks Overview Presentations** 
-1. FoRC@NSLP: Overview and Insights from the Field of Research Classification Shared Task
-2. SOMD@NSLP: Overview and Insights from the Software Mention Detection Shared Task
+1. FoRC@NSLP: Overview and Insights from the Field of Research Classification Shared Task \
+_Raia Abu Ahmad, Ekaterina Borisova and Georg Rehm_   
+2. SOMD@NSLP: Overview and Insights from the Software Mention Detection Shared Task \
+_Frank Krüger, Saurav Karmakar and Stefan Dietze_
 
 **15:10 \
 Shared Tasks Posters Session** 
