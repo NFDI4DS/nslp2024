@@ -54,7 +54,7 @@ Shared Tasks Overview Presentations**
 2. SOMD@NSLP: Overview and Insights from the Software Mention Detection Shared Task
 
 **15:10 \
-Shared Tasks Posters Session** \
+Shared Tasks Posters Session** 
 
 Field of Research Classification Posters: 
 1. NRK at FoRC 2024 Subtask I: Exploiting BERT-based Models for Multi-Class Classification of Scholarly Papers \
