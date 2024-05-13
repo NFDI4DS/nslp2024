@@ -50,7 +50,7 @@ The NSLP 2024 workshop will be a face-to-face event. Remote participation will n
   </tr> 
   <tr>
     <td><strong>14:00</strong></td>
-    <td colspan="12"><strong>Paper Presentations - Identifying and Leveraging Research Software</strong> 
+    <td colspan="5"><strong>Paper Presentations - Identifying and Leveraging Research Software</strong> 
       <br>Scientific Software Citation Intent using Large Language Models
       <br><em>Ana-Maria Istrate, Joshua Fisher, Xinyu Yang, Kara Moraw, Kai Li and Donghui Li</em>  
       <br>RTaC: A Generalised Framework for Tooling
@@ -58,10 +58,32 @@ The NSLP 2024 workshop will be a face-to-face event. Remote participation will n
   </tr>
   <tr>
     <td><strong>14:30</strong></td>
-    <td colspan="12"><strong>Shared Tasks Overview Presentations</strong> 
+    <td colspan="5"><strong>Shared Tasks Overview Presentations</strong> 
       <br>FoRC@NSLP: Overview and Insights from the Field of Research Classification Shared Task
       <br><em>Raia Abu Ahmad, Ekaterina Borisova and Georg Rehm</em>  
       <br>SOMD@NSLP: Overview and Insights from the Software Mention Detection Shared Task
       <br><em>Frank Krüger, Saurav Karmakar and Stefan Dietze</em></td>  
+  </tr>
+  <tr>
+    <td><strong>15:10</strong></td>
+    <td colspan="5"><strong>Shared Tasks Posters Session</strong> 
+      <br>Field of Research Classification Posters: 
+      <br>NRK at FoRC 2024 Subtask I: Exploiting BERT-based Models for Multi-Class Classification of Scholarly Papers
+      <br><em>Tuan Kiet Nguyen and Van Thin Dang</em>  
+      <br>Advancing Automatic Subject Indexing: Combining Weak Supervision with Extreme Multi-label Classification 
+      <br><em>Lakshmi Rajendram Bashyam and Ralf Krestel</em> 
+      <br>Single-Label Multi-Modal Field of Research Classification
+      <br><em>Florian Ruosch, Rosni Vasu, Ruijie Wang, Luca Rossetto and Abraham Bernstein</em>
+      <br>Enriched BERT Embeddings for Scholarly Publication Classification
+      <br><em>Benjamin Wolff, Eva Seidlmayer and Konrad Förstner</em>
+      <br>Software Mention Detection Posters: 
+      <br>Software Mention Recognition with a Three-Stage Framework Based on BERTology Models at SOMD 2024  
+      <br><em>Thi Thuy Nguyen, Viet Anh Nguyen and Van Thin Dang</em>  
+      <br>ABCD Team at SOMD 2024: Software Mention Detection in Scholarly Publications with Large Language Models
+      <br><em>Nguyen Xuan Phi, Tran Minh Quang and Thin Dang Van</em> 
+      <br>Falcon 7b for Software Mention Detection in Scholarly Documents
+      <br><em>Ameerali Khan, Qusai Ramadan, Cong Yang and Zeyd Boukhers</em>
+      <br>Enhancing Software-Related Information Extraction via Single-Choice Question Answering with Large Language Models
+      <br><em>Wolfgang Otto, Sharmila Upadhyaya and Stefan Dietze</em></td>
   </tr>
 </table>
