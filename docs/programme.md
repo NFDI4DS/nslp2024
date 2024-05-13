@@ -36,13 +36,7 @@ The NSLP 2024 workshop will be a face-to-face event. Remote participation will n
       <br><em>Gábor Madarász, Noémi Ligeti-Nagy, András Holl and Tamás Váradi</em>  
       <br>Cite-worthiness Detection on Social Media: a Preliminary Study
       <br><em>Salim Hafid, Wassim Ammar, Sandra Bringay and Konstantin Todorov</em></td>  
-      <br><strong>Paper Presentations - Identifying and Leveraging Research Software</strong>
-      <br>A Technical/Scientific Document Management Platform
-      <br><em>Melissa Lemos, Grettel Monteagudo Garcia, Yenier Torres Isquierdo, Bruno Novelli, Cleber Damasceno, Bernardo Florindo Mortari Rezende, Jefferson Alves de Sousa and Marco Antonio Casanova</em>
-      <br>Extracting Research Software Installation Instructions from README files: An Initial Analysis
-      <br><em>Carlos Utrilla Guerrero, Oscar Corcho and Daniel Garijo</em>
-      <br>RepoFromPaper: An Approach to Extract Software Code Implementations from Scientific Publications
-      <br><em>Aleksandar Stankovski and Daniel Garijo</em>
+      
   </tr>
   <tr>
     <td><strong>12:30</strong></td>
