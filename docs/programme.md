@@ -83,16 +83,16 @@ Enriched BERT Embeddings for Scholarly Publication Classification \
 _Benjamin Wolff, Eva Seidlmayer and Konrad Förstner_
 
 Software Mention Detection Posters: 
-Software Mention Recognition with a Three-Stage Framework Based on BERTology Models at SOMD 2024 
+Software Mention Recognition with a Three-Stage Framework Based on BERTology Models at SOMD 2024 \ 
 _Thi Thuy Nguyen, Viet Anh Nguyen and Van Thin Dang_
 
-ABCD Team at SOMD 2024: Software Mention Detection in Scholarly Publications with Large Language Models 
+ABCD Team at SOMD 2024: Software Mention Detection in Scholarly Publications with Large Language Models \
 _Nguyen Xuan Phi, Tran Minh Quang and Thin Dang Van_
 
-Falcon 7b for Software Mention Detection in Scholarly Documents 
+Falcon 7b for Software Mention Detection in Scholarly Documents \
 _Ameerali Khan, Qusai Ramadan, Cong Yang and Zeyd Boukhers_
 
-Enhancing Software-Related Information Extraction via Single-Choice Question Answering with Large Language Models 
+Enhancing Software-Related Information Extraction via Single-Choice Question Answering with Large Language Models \
 _Wolfgang Otto, Sharmila Upadhyaya and Stefan Dietze_
 
 
