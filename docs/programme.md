@@ -30,6 +30,7 @@ The NSLP 2024 workshop will be a face-to-face event. Remote participation will n
     <td><strong>Coffee Break</strong></td>
   </tr>
   <tr>
+    <td><strong>11:00</strong></td>
     <td colspan="5"><strong>Paper Presentations - Scholarly Information Processing</strong> 
       <br>OCR cleaning of scientific texts with LLM's 
       <br><em>Gábor Madarász, Noémi Ligeti-Nagy, András Holl and Tamás Váradi</em>  
