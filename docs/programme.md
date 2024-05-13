@@ -19,7 +19,8 @@ The NSLP 2024 workshop will be a face-to-face event. Remote participation will n
   </tr>
   <tr>
     <td><strong>09:45</strong></td>
-    <td colspan="5"><strong>Paper Presentations - Scholarly Information Processing</strong> 
+    <td colspan="5"><strong>Paper Presentations - Scholarly Information Processing</strong>
+      <br>
       <br>Scholarly Question Answering using Large Language Models in the NFDI4DataScience Gateway 
       <br><em>Hamed Babaei Giglou, Tilahun Abedissa Taffa, Rana Abdullah, Aida Usmanova, Ricardo Usbeck, Jennifer D'Souza and Sören Auer</em>  
       <br>
@@ -34,6 +35,7 @@ The NSLP 2024 workshop will be a face-to-face event. Remote participation will n
     <td><strong>11:00</strong></td>
     <br>
     <td colspan="12"><strong>Paper Presentations - Scholarly Information Processing</strong> 
+      <br>
       <br>OCR cleaning of scientific texts with LLM's 
       <br><em>Gábor Madarász, Noémi Ligeti-Nagy, András Holl and Tamás Váradi</em>  
       <br>
@@ -58,6 +60,7 @@ The NSLP 2024 workshop will be a face-to-face event. Remote participation will n
   <tr>
     <td><strong>14:00</strong></td>
     <td colspan="5"><strong>Paper Presentations - Identifying and Leveraging Research Software</strong> 
+      <br>
       <br>Scientific Software Citation Intent using Large Language Models
       <br><em>Ana-Maria Istrate, Joshua Fisher, Xinyu Yang, Kara Moraw, Kai Li and Donghui Li</em>
       <br>
@@ -67,6 +70,7 @@ The NSLP 2024 workshop will be a face-to-face event. Remote participation will n
   <tr>
     <td><strong>14:30</strong></td>
     <td colspan="5"><strong>Shared Tasks Overview Presentations</strong> 
+      <br>
       <br>FoRC@NSLP: Overview and Insights from the Field of Research Classification Shared Task
       <br><em>Raia Abu Ahmad, Ekaterina Borisova and Georg Rehm</em>  
       <br>
@@ -77,7 +81,8 @@ The NSLP 2024 workshop will be a face-to-face event. Remote participation will n
     <td><strong>15:10</strong></td>
     <td colspan="18"><strong>Shared Tasks Posters Session</strong> 
       <br>
-      <br>Field of Research Classification Posters: 
+      <br><em>Field of Research Classification Posters</em>: 
+      <br>
       <br>NRK at FoRC 2024 Subtask I: Exploiting BERT-based Models for Multi-Class Classification of Scholarly Papers
       <br><em>Tuan Kiet Nguyen and Van Thin Dang</em>  
       <br>
@@ -90,7 +95,8 @@ The NSLP 2024 workshop will be a face-to-face event. Remote participation will n
       <br>Enriched BERT Embeddings for Scholarly Publication Classification
       <br><em>Benjamin Wolff, Eva Seidlmayer and Konrad Förstner</em>
       <br>
-      <br>Software Mention Detection Posters: 
+      <br><em>Software Mention Detection Posters:</em> 
+      <br>
       <br>Software Mention Recognition with a Three-Stage Framework Based on BERTology Models at SOMD 2024  
       <br><em>Thi Thuy Nguyen, Viet Anh Nguyen and Van Thin Dang</em>  
       <br>
@@ -110,6 +116,7 @@ The NSLP 2024 workshop will be a face-to-face event. Remote participation will n
   <tr>
     <td><strong>16:00</strong></td>
     <td colspan="5"><strong>Paper Presentations - Research Knowledge Graphs</strong> 
+      <br>
       <br>The Effect of Knowledge Graph Schema on Classifying Future Research Suggestions
       <br><em>Dimitrios Alivanistos, Seth van der Bijl, Michael Cochez and Frank van Harmelen</em>  
       <br>
