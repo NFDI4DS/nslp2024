@@ -6,6 +6,12 @@ nav_order: 3
 
 # Programme
 
+<style>
+    .time {
+        vertical-align: top; /* Align text to the top of the cell */
+    }
+</style>
+
 <table>
   <tr>
     <td><strong>09:00</strong></td>
@@ -17,7 +23,7 @@ nav_order: 3
       <br><em>Integrating Large Language Models with Scientific Knowledge Graphs: Trends and Future Directions</em></td>
   </tr>
   <tr>
-    <td><strong>09:45</strong></td>
+    <td> class="time"<strong>09:45</strong></td>
     <td colspan="5"><strong>Paper Presentations - Scholarly Information Processing</strong>
       <br>
       <br>Scholarly Question Answering using Large Language Models in the NFDI4DataScience Gateway 
