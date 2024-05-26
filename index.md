@@ -18,7 +18,7 @@ permalink: /
     <br/><br/>
     <strong>Co-located with <a href="https://2024.eswc-conferences.org" target="_blank">ESWC 2024</a></strong>
     <br/>
-    <strong><span style="color: red;">May 27, 2024</span> (date confirmed)</strong>
+    <strong><span>May 27, 2024</span> (date confirmed)</strong>
     <br/>
     <strong>Hersonissos, Crete, Greece</strong>
     </td>
